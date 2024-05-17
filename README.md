@@ -5,8 +5,9 @@
 
 Objetivo é criar uma página web pessoal, com foto, links para contato e de redes sociais, juntamente com uma minibiografia.
 
-## Link da Página Publicada no GitHub Pages
+## Deploy - Link da Página Publicada no GitHub Pages
 
+https://marcia-moreira.github.io/MM_Projeto-LandinPage-Marcia_Moreira/
 
 ## Tecnologias utilizadas:
 
