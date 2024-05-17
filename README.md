@@ -21,9 +21,8 @@ Objetivo é criar uma página web pessoal, com foto, links para contato e de red
 - VSCode
 
 
--- 
-
-&copysr; 052024  
->M_M<  
+#
+&copysr; 2024  
+> M_M  
 Marcia Moreira - Full Stack Developer  
-- All Rights Reserved -
+All Rights Reserved
